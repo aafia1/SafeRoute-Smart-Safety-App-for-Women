@@ -1,28 +1,29 @@
-# SafeRoute — Smart Women Safety Application
+#  <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/428532d4-ec88-459e-b1f1-b89ef56c65c1" />SafeRoute — Smart Women Safety Application
 
-SafeRoute is a native Android application built to help women respond quickly and safely to unsafe situations. With a single tap (or a shake), it can send an SOS alert with live location to trusted contacts, generate a fake incoming call to create a distraction, and fall back to SMS when there's no internet connection.
+
+SafeRoute is a native Android application built to help women respond quickly and safely to unsafe situations — **and it works even without an internet connection.** With a single tap, it can send an SOS alert with live location to trusted contacts over SMS, generate a fake incoming call to create a distraction, and keep working when data or Wi-Fi isn't available.
 
 > "SafeRoute is more than an app — it's a digital safety companion."
 
 ## Problem
 
-Women's safety is a major concern in many regions due to rising cases of harassment, kidnapping, and street crime. In unsafe situations, it's often hard to make a call or type a message for help — and most existing safety apps require manual steps or a stable internet connection, which isn't always reliable in an emergency.
+Women's safety is a major concern in many regions due to rising cases of harassment, kidnapping, and street crime. In unsafe situations, it's often hard to make a call or type a message for help — and most existing safety apps require a stable internet connection, which isn't always available in an emergency.
 
 ## Features
 
+- 🚨 **Works Without Internet** — SafeRoute's core SOS flow runs entirely over SMS, so alerts still go out in low-signal areas, during data outages, or when Wi-Fi/mobile data is off. No app should ever leave you stranded when you need it most.
 - **One-Tap SOS Alert** — Instantly sends live location and a custom message to trusted/emergency contacts.
-- **Real-Time Location Tracking** — Shares live location with trusted contacts via a background location service.
+- **Real-Time Location Tracking** — Shares live location with trusted contacts via a background location service (when internet is available).
 - **Fake Call Generator** — Simulates an incoming call with a configurable fake caller to help the user exit uncomfortable situations.
-- **Offline Mode (SMS Fallback)** — Sends alerts over SMS when there's no internet connection.
 - **Trusted & Emergency Contacts Management** — Add, edit, and manage the people who get notified.
 - **Onboarding / App Guide** — Walks new users through how the app works.
 
 ## Screenshots
-<img width="720" height="1600" alt="11" src="https://github.com/user-attachments/assets/43dbfdf5-3672-46dc-b5c1-19bc0dfb5ed0" />
-<img width="720" height="1600" alt="22" src="https://github.com/user-attachments/assets/4fc5becd-34a2-4e40-b25f-3cabb8f3a5f8" />
-<img width="720" height="1065" alt="msg" src="https://github.com/user-attachments/assets/5e4d5a2b-5de8-4eba-8014-5d34b904b5b9" />
-<img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/316a7f6d-92bb-4bbc-bf11-5281d66dfa03" />
-<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/aa2992c6-e485-48c2-bbc8-ce238940fd9b" />
+<img width="200" height="400" alt="11" src="https://github.com/user-attachments/assets/43dbfdf5-3672-46dc-b5c1-19bc0dfb5ed0" />
+<img width="200" height="400" alt="22" src="https://github.com/user-attachments/assets/4fc5becd-34a2-4e40-b25f-3cabb8f3a5f8" />
+<img width="200" height="400" alt="msg" src="https://github.com/user-attachments/assets/5e4d5a2b-5de8-4eba-8014-5d34b904b5b9" />
+<img width="200" height="400" alt="3" src="https://github.com/user-attachments/assets/316a7f6d-92bb-4bbc-bf11-5281d66dfa03" />
+<img width="200" height="400" alt="4" src="https://github.com/user-attachments/assets/aa2992c6-e485-48c2-bbc8-ce238940fd9b" />
 
 
 

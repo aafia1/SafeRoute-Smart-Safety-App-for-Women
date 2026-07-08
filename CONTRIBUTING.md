@@ -7,7 +7,7 @@ Thanks for your interest in improving SafeRoute! This is a student project, so c
 1. Fork the repository.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/<your-username>/saferoute.git
+   git clone https://github.com/<aafia1>/saferoute.git
    cd saferoute
    ```
 3. Open the project in Android Studio and let Gradle sync.

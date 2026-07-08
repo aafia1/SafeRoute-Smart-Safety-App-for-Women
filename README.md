@@ -18,16 +18,13 @@ Women's safety is a major concern in many regions due to rising cases of harassm
 - **Onboarding / App Guide** — Walks new users through how the app works.
 
 ## Screenshots
+<img width="720" height="1600" alt="11" src="https://github.com/user-attachments/assets/43dbfdf5-3672-46dc-b5c1-19bc0dfb5ed0" />
+<img width="720" height="1600" alt="22" src="https://github.com/user-attachments/assets/4fc5becd-34a2-4e40-b25f-3cabb8f3a5f8" />
+<img width="720" height="1065" alt="msg" src="https://github.com/user-attachments/assets/5e4d5a2b-5de8-4eba-8014-5d34b904b5b9" />
+<img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/316a7f6d-92bb-4bbc-bf11-5281d66dfa03" />
+<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/aa2992c6-e485-48c2-bbc8-ce238940fd9b" />
 
-| Splash / Onboarding | Home | SOS / Contacts |
-|---|---|---|
-| ![Splash screen](docs/screenshots/splash.png) | ![Home screen](docs/screenshots/home.png) | ![Contacts screen](docs/screenshots/contacts.png) |
 
-| Fake Call | App Guide |
-|---|---|
-| ![Fake call screen](docs/screenshots/fake_call.png) | ![App guide screen](docs/screenshots/app_guide.png) |
-
-> Drop your screenshots into a `docs/screenshots/` folder in the repo using these filenames (or update the paths above to match your own). PNG or JPG both work.
 
 ## Tech Stack
 
@@ -91,7 +88,7 @@ saferoute/
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/saferoute.git
+   git clone https://github.com/<aafia1>/saferoute.git
    ```
 2. Open the project in Android Studio.
 3. Add your own `google-services.json` (from your Firebase project) into the `app/` directory — this file is **not** included in the repo for security reasons. See [Firebase setup](https://firebase.google.com/docs/android/setup) if you need to create a project.
@@ -107,11 +104,6 @@ saferoute/
 
 Contributions, bug reports, and suggestions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for how to get started.
 
-## Team
-
-Built as a Mobile Application Development (MAD) project by:
-- **Aafia Azhar**
-- **Anoosha Ikram**
 
 ## Social Impact
 

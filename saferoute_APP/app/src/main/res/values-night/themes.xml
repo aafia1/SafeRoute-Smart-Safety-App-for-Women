@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for dark mode. -->
+    <style name="Theme.Saferoute" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorPrimaryVariant">@color/pink_primary</item>
+        <item name="colorOnPrimary">@color/pink_on_primary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/pink_primary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/pink_background</item>
+        <item name="android:colorBackground">@color/pink_background</item>
+        <item name="colorSurface">@color/pink_surface</item>
+    </style>
+</resources>

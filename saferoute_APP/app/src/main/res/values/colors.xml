@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#D32F2F</color>
+
+    <!-- Professional Pink Theme -->
+    <color name="pink_background">#000000</color>
+    <color name="subtle_pink">#121212</color>
+    <color name="pink_surface">#000000</color>
+    <color name="pink_primary">#FF69B4</color>
+    <color name="primary_pink">#FF69B4</color> <!-- Added to fix build error -->
+    <color name="pink_on_primary">#FFFFFF</color>
+    <color name="pink_text_primary">#FFFFFF</color>
+    <color name="pink_text_secondary">#F4C2C2</color>
+</resources>

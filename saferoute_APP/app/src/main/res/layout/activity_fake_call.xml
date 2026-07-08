@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fake_call_background">
+
+    <TextView
+        android:id="@+id/callerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unknown Caller"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"/>
+
+    <TextView
+        android:id="@+id/callerNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+1 (234) 567-8900"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:layout_below="@id/callerName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/callStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Incoming call..."
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:layout_below="@id/callerNumber"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/acceptCallButton"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_accept_call"
+            android:background="@drawable/accept_button_background"/>
+
+        <ImageButton
+            android:id="@+id/rejectCallButton"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_decline_call"
+            android:background="@drawable/reject_button_background"
+            android:layout_marginStart="100dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

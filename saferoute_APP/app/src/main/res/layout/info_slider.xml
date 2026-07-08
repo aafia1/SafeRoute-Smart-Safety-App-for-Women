@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/subtle_pink">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="📘 How SafeRoute Works"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/pink_text_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="SafeRoute is designed to keep you protected in any situation. Here’s how each feature helps you stay safe:"
+        android:textColor="@color/pink_text_secondary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="🔴 SOS Alert"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/pink_text_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Press the SOS button to immediately notify your trusted contacts. Your live location will be sent to them so they can reach you quickly."
+        android:textColor="@color/pink_text_secondary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="📍 Share Location"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/pink_text_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Send your current location to anyone through WhatsApp or SMS. Useful when traveling, walking alone, or meeting someone new."
+        android:textColor="@color/pink_text_secondary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="📞 Fake Call"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/pink_text_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Trigger a realistic incoming call to help you leave an uncomfortable or unsafe situation. Choose the caller name and timer."
+        android:textColor="@color/pink_text_secondary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="⭐ Trusted Contacts"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/pink_text_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Add the people you trust the most. They will receive alerts when you press SOS or use emergency features."
+        android:textColor="@color/pink_text_secondary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="🔊 Siren"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/pink_text_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Activate a loud alarm sound to draw attention in dangerous moments. Perfect for scaring off threats or signaling for help."
+        android:textColor="@color/pink_text_secondary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="🛡 Safety First"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/pink_text_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="SafeRoute works best when:\n\nYour location is turned on\nYou have added trusted contacts\nNotifications are allowed"
+        android:textColor="@color/pink_text_secondary" />
+
+</LinearLayout>

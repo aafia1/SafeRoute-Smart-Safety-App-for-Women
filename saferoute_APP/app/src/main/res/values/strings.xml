@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SafeRoute</string>
+    <string name="sos_text">SOS</string>
+    <string name="contact_1_hint">Contact 1 (Phone Number)</string>
+    <string name="contact_2_hint">Contact 2 (Phone Number)</string>
+    <string name="contact_3_hint">Contact 3 (Phone Number)</string>
+    <string name="save_contacts_text">Save Contacts</string>
+    <string name="saferoute">SafeRoute</string>
+    <string name="fake_caller_name_hint">Fake Caller Name</string>
+</resources>

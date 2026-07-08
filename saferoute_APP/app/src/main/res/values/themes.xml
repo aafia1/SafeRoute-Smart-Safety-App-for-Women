@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Saferoute" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorPrimaryVariant">@color/pink_primary</item>
+        <item name="colorOnPrimary">@color/pink_on_primary</item>
+        <item name="android:statusBarColor">@color/pink_primary</item>
+        <item name="android:windowBackground">@color/pink_background</item>
+        <item name="android:colorBackground">@color/pink_background</item>
+        <item name="colorSurface">@color/pink_surface</item>
+    </style>
+
+    <style name="PinkButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/pink_primary</item>
+        <item name="android:textColor">@color/pink_on_primary</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:minHeight">60dp</item>
+    </style>
+</resources>
